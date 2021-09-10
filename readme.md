@@ -1,0 +1,1 @@
+Lista de tarefa desenvolvido em javascript na aula de javascript básico pela Gama Academy.
